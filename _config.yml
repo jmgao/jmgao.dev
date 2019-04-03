@@ -1,5 +1,5 @@
-title:               Celeste
-url:                 https://nicoelayda.github.io
+title:               jmgao
+url:                 https://jmgao.dev
 baseurl:             ""
 
 markdown:            kramdown
@@ -16,9 +16,9 @@ sass:
   style:             :compressed
 
 author:
-  name:              Nico Elayda
-  url:               nicoelayda.github.io
-  email:             nico@elayda.com
+  name:              Josh Gao
+  url:               jmgao.dev
+  email:             me@jmgao.dev
 
 plugins:
   - jekyll-coffeescript
